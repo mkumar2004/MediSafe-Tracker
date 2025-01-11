@@ -13,14 +13,16 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+//enter your firebaseConfig
 const firebaseConfig = {
-  apiKey: "AIzaSyDtUF9_E1QjbP0O6QlSO7C-Uv_5j7zn-5c",
-  authDomain: "medisafe-9cfa7.firebaseapp.com",
-  projectId: "medisafe-9cfa7",
-  storageBucket: "medisafe-9cfa7.firebasestorage.app",
-  messagingSenderId: "188235854234",
-  appId: "1:188235854234:web:01fe6f25bb0e5cba950a23",
-  measurementId: "G-YZYQ7LPRW3"
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: ,
+  measurementId: 
 };
 
 // Initialize Firebase
